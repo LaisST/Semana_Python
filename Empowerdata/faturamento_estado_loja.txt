@@ -1,0 +1,8 @@
+|                              |   preco |
+|:-----------------------------|--------:|
+| ('Ceará', 'Loja 1')          |  103162 |
+| ('Rio de Janeiro', 'Loja 2') |   69592 |
+| ('Rio de Janeiro', 'Loja 3') |   88357 |
+| ('Santa Catarina', 'Loja 6') |  109185 |
+| ('São Paulo', 'Loja 4')      |  112379 |
+| ('São Paulo', 'Loja 5')      |  102189 |
